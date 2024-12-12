@@ -1,0 +1,5 @@
+com\example\DemoApiApplication.class
+com\example\models\entities\User.class
+com\example\services\UserService.class
+com\example\controllers\UserController.class
+com\example\repositories\UserRepository.class
